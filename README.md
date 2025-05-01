@@ -71,7 +71,7 @@ Model export: `joblib` used to serialize the trained model (`route_score_model.p
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/route-optimizer.git
+git clone https://github.com/CJG1410/AI-Based-Context-Aware-Route-Optimization-System.git
 cd route-optimizer
 ```
 
